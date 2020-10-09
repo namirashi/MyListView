@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Idol Favorite</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>G-DRAGON</item>
+        <item>TOP</item>
+        <item>B.I</item>
+        <item>BOBBY</item>
+        <item>JAY</item>
+        <item>MINO</item>
+        <item>JINWOO</item>
+        <item>HYUNSUK</item>
+        <item>HARUTO</item>
+        <item>JUNKYU</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kwon Ji-yong lahir 18 Agustus 19, atau yang lebih dikenal dengan nama panggung G-Dragon adalah rapper, penyanyi, penulis lagu dan produser rekaman asal Korea Selatan. Setelah enam tahun menjadi trainee di bawah label rekaman YG Entertainment, G-Dragon secara resmi debut sebagai anggota dari grup Big Bang pada tahun 2006. Posisi ia di bigbang adalah leader</item>
+        <item>Choi Seung-hyun lahir pada 4 November 1987 atau yang lebih dikenal dengan nama panggungnya T.O.P adalah rapper, penyanyi sekaligus aktor dan model. Setelah menjadi trainee di bawah label rekaman YG Entertainment, T.O.P secara resmi debut sebagai anggota dari grup Big Bang pada tahun 2006. Posisi ia di bigbang adalah rapper</item>
+        <item>Kim Han-bin lahir tanggal 22 Oktober 1996 atau yang lebih dikenal dengan nama panggung B.I adalah seorang rapper, penyanyi-penulis lagu, produser rekaman. Setelah menjadi trainee di bawah label rekaman YG Entertainment, B.I secara resmi debut sebagai anggota dari grup iKON pada tahun 2015. Posisi ia di iKON adalah leader</item>
+        <item>Kim Ji-won lahir 21 Desember 1995 atau yang lebih dikenal dengan nama panggung Bobby, Bobby dilahirkan di Seoul, Korea Selatan, namun dibesarkan di Virginia, Amerika Serikat. Bobby adalah rapper. Setelah menjadi trainee di bawah label rekaman YG Entertainment, Bobby secara resmi debut sebagai anggota dari grup iKON pada tahun 2015. Posisi ia di iKON adalah rapper</item>
+        <item>Kim Jinhwan lahir pada 7 Februari 1994 atau yang lebih dikenal dengan nama panggung Jay adalah penyanyi. Setelah menjadi trainee di bawah label rekaman YG Entertainment, Jay secara resmi debut sebagai anggota dari grup iKON pada tahun 2015. Posisi ia di iKON adalah Vokalis</item>
+        <item>Song Min-ho lahir 30 Maret 1993 juga dikenal dengan nama panggung Mino adalah seorang rapper, penyanyi, penulis lagu, produser, dan komposer asal Korea Selatan.  Setelah menjadi trainee di bawah label rekaman YG Entertainment, Mino secara resmi debut sebagai anggota dari grup Winner pada tahun 2014. Posisi ia di Winner adalah rapper</item>
+        <item>Kim Jin-woo lahir 26 September 1991 atau yang lebih dikenal dengan nama panggung Jinwoo atau Jinu adalah penyanyi pria Korea Selatan Setelah. Setelah menjadi trainee di bawah label rekaman YG Entertainment, Jinu secara resmi debut sebagai anggota dari grup Winner pada tahun 2014. Posisi ia di Winner adalah vokalis</item>
+        <item>Choi Hyun-suk lahir di Seoul, Korea Selatan, 21 April 1999 adalah seorang artis asal Korea Selatan yang berada di bawah kontrak YG Entertainment. Ia telah mengikuti trainee di YG Entertainment sejak tahun 2015. Akhirnya ia debut dengan TREASURE dan berposisi sebagai Leader, Main Rapper dan Main Dancer</item>
+        <item>Watanabe Haruto lahir di Fukuoka pada 5 April 2004, Haruto  adalah seorang rapper asal Korea Selatan tetapi berasal dari Jepang. Ia telah mengikuti trainee di YG Entertainment. Akhirnya ia debut dengan TREASURE dan berposisi sebagai rapper dan visual grup.</item>
+        <item>Kim Junkyu lahir di Seoul, Korea Selatan pada 9 September 2000, Kim junkyu adalah penyanyi dari Korea Selatan. Ia telah mengikuti trainee di YG Entertainment. Akhirnya ia debut dengan TREASURE dan berposisi sebagai vokalis </item>
+    </string-array>
+
+
+    <array name="data_photo">
+        <item>@drawable/gdragon</item>
+        <item>@drawable/top</item>
+        <item>@drawable/hanbin</item>
+        <item>@drawable/bobby</item>
+        <item>@drawable/jinani</item>
+        <item>@drawable/mino</item>
+        <item>@drawable/jinu</item>
+        <item>@drawable/hyunsuk</item>
+        <item>@drawable/ruto</item>
+        <item>@drawable/junkyu</item>
+    </array>
+</resources>

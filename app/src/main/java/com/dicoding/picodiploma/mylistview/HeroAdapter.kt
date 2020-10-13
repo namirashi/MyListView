@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.mylistview
+package com.dicoding.picodiploma.mykistview
 
 
 import android.content.Context
@@ -9,6 +9,8 @@ import android.widget.BaseAdapter
 import android.widget.ImageView
 import android.widget.ListAdapter
 import android.widget.TextView
+import com.dicoding.picodiploma.mylistview.Hero
+import com.dicoding.picodiploma.mylistview.R
 
 class HeroAdapter internal constructor(private val context: Context) : BaseAdapter(), ListAdapter {
 

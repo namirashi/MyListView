@@ -11,6 +11,7 @@ import android.widget.ListAdapter
 import android.widget.TextView
 import com.dicoding.picodiploma.mylistview.Hero
 import com.dicoding.picodiploma.mylistview.R
+import de.hdodenhof.circleimageview.CircleImageView
 
 class HeroAdapter internal constructor(private val context: Context) : BaseAdapter(), ListAdapter {
 
@@ -36,7 +37,7 @@ class HeroAdapter internal constructor(private val context: Context) : BaseAdapt
     private inner class ViewHolder internal constructor(view: View) {
         private val txtName: TextView = view.findViewById(R.id.txt_name)
         private val txtDescription: TextView = view.findViewById(R.id.txt_description)
-        private val imgPhoto: ImageView = view.findViewById(R.id.img_photo)
+        private val imgPhoto: CircleImageView = view.findViewById(R.id.img_photo)
 
         internal fun bind(hero: Hero) {
             txtName.text = hero.name
